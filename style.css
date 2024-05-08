@@ -1,0 +1,53 @@
+.photo{
+    width: 90px;
+    height: 60px;
+    
+}
+.photos1{
+    width: 1500px;
+    height: 700px;
+}
+.photos2{
+  width: 500px;
+  height: 380px;
+  
+}
+.photos3{
+  width: 400px;
+  height: 250px;
+  
+}
+
+.Mydiv {
+  border: 1px solid rgb(245, 244, 244);
+  padding: 20px;
+  background-color: rgb(14, 14, 82);
+
+}
+
+.p3{
+    text-align: center;
+    
+}
+.myDiv {
+    border: 1px outset rgb(9, 10, 45);
+    background-color: rgb(224, 226, 226);    
+    text-align: center;
+    color: rgb(37, 73, 190);
+    width: 0cqmax;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .body1{
+    background-color: antiquewhite;
+    color: blue;
+  }
+ .mydiv{
+  color: aliceblue;
+ }
+footer{
+  background-color: rgb(10, 10, 60);
+  text-align: center;
+  color: azure;
+}
